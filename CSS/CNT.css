@@ -1,0 +1,29 @@
+header h4{
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+main1{
+    flex-direction: column;
+    justify-content: center;
+}
+main2{
+    flex-direction: column;
+    justify-content: center;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(63, 63, 63);
+    margin-top: 340px;
+}
+footer a{
+    :hover{
+    color: blue;
+    }
+}   
